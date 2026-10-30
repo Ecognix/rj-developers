@@ -25,6 +25,7 @@ h3{font-size:1.4rem}
 .header.solid{background:rgba(247,245,240,.92);backdrop-filter:blur(10px)}
 .header-row{display:flex;align-items:center;justify-content:space-between;height:76px}
 .brand{display:flex;align-items:center;gap:.7rem}
+.header .brand{transform:translateY(6px)}
 .brand-mark{display:grid;place-items:center;width:40px;height:40px;background:var(--river);color:var(--mist);font-family:var(--display);font-size:1.1rem}
 .brand-name{font-family:var(--display);font-size:1.3rem}
 .nav{display:flex;align-items:center;gap:2rem}
@@ -259,4 +260,4 @@ h3{font-size:1.4rem}
 @media (max-width:560px){.logo-mark{height:46px}.logo-word{height:21px}}
 
 /* hero emphasis */
-.lux{font-weight:600;color:var(--gold)}
+.lux{font-weight:450;color:var(--gold)}
