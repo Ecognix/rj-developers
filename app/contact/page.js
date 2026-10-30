@@ -15,13 +15,13 @@ export default function Contact() {
       <section className="wrap map-wrap">
         <iframe
           className="map"
-          title="RJ Developers office on GS Road, Guwahati"
-          src="https://www.google.com/maps?q=GS+Road,+Guwahati,+Assam&output=embed"
+          title="RJ Developers office at PWD Road, Jalukbari, Guwahati"
+          src="https://www.google.com/maps?q=Bhaktobari,+PWD+Road,+Jalukbari,+Guwahati,+Assam+781017&output=embed"
           loading="lazy"
           referrerPolicy="no-referrer-when-downgrade"
           allowFullScreen
         />
-        <p className="muted map-note">GS Road, Guwahati, Assam 781005. <a className="link" href="https://www.google.com/maps/search/?api=1&query=GS+Road+Guwahati+Assam" target="_blank" rel="noopener noreferrer">Open in Google Maps</a></p>
+        <p className="muted map-note">Diganta Baruah C/o, Bhaktobari, PWD Road, Garal / Jalukbari, Guwahati, Assam 781017. <a className="link" href="https://www.google.com/maps/search/?api=1&query=Bhaktobari+PWD+Road+Jalukbari+Guwahati+Assam+781017" target="_blank" rel="noopener noreferrer">Open in Google Maps</a></p>
       </section>
 
       <section className="section-tight">
@@ -29,9 +29,9 @@ export default function Contact() {
           <ContactForm />
           <aside className="prose">
             <h3>Head office</h3>
-            <p>RJ Developers<br />GS Road, Guwahati<br />Assam 781005</p>
+            <p>RJ Developers<br />Diganta Baruah C/o, Bhaktobari<br />PWD Road, Garal / Jalukbari<br />Guwahati, Assam 781017</p>
             <h3>Call or write</h3>
-            <p><a href="tel:+910000000000">+91 00000 00000</a><br /><a href="mailto:hello@rjdevelopers.in">hello@rjdevelopers.in</a></p>
+            <p><a href="tel:+919395977575">+91 93959 77575</a><br /><a href="mailto:hello@rjdevelopers.in">hello@rjdevelopers.in</a></p>
             <h3>Office hours</h3>
             <p>Monday to Saturday, 10 am to 6 pm.<br />Site visits on Sundays by appointment.</p>
             <h3>What happens next</h3>

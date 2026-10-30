@@ -15,10 +15,10 @@ export default function Home() {
         <HeroLines />
         <div className="wrap hero-inner">
           <h1 className="hero-title">
-            <span className="line"><span>Homes that</span></span>
-            <span className="line"><span>hold their ground.</span></span>
+            <span className="line"><span>Dreamers</span></span>
+            <span className="line"><span><b className="lux">Luxury</b> in lifestyle</span></span>
           </h1>
-          <p className="hero-sub">For eighteen years RJ Developers has built apartments, villas and workplaces in Guwahati that are finished on time, made to last and honest about what they cost.</p>
+          <p className="hero-sub">For eighteen years RJ Developers has built luxury apartments, villas and workplaces in Guwahati, finished on time, made to last and honest about what they cost.</p>
           <div className="hero-actions">
             <Link href="/projects" className="btn">View our projects</Link>
             <Link href="/contact" className="btn btn-ghost">Book a site visit</Link>

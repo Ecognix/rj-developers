@@ -1,5 +1,6 @@
 node_modules
 .next
+/rj-developers/
 .env
 .env.*
 !.env.example

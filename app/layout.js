@@ -8,7 +8,7 @@ const display = Fraunces({ subsets: ["latin"], variable: "--font-display" });
 const body = Hanken_Grotesk({ subsets: ["latin"], variable: "--font-body" });
 
 export const metadata = {
-  title: { default: "RJ Developers | Homes that hold their ground", template: "%s | RJ Developers" },
+  title: { default: "RJ Developers | Dreamers, luxury in lifestyle", template: "%s | RJ Developers" },
   description: "RJ Developers designs and builds apartments, villas and commercial spaces across Guwahati, Assam.",
   icons: { icon: "/logo-mark.png" },
 };

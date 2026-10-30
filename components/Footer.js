@@ -21,8 +21,8 @@ export default function Footer() {
         </div>
         <div>
           <h4>Visit our office</h4>
-          <p>RJ Developers<br />GS Road, Guwahati<br />Assam 781005</p>
-          <p><a href="tel:+910000000000">+91 00000 00000</a><br /><a href="mailto:hello@rjdevelopers.in">hello@rjdevelopers.in</a></p>
+          <p>RJ Developers<br />Diganta Baruah C/o, Bhaktobari<br />PWD Road, Garal / Jalukbari<br />Guwahati, Assam 781017</p>
+          <p><a href="tel:+919395977575">+91 93959 77575</a><br /><a href="mailto:hello@rjdevelopers.in">hello@rjdevelopers.in</a></p>
         </div>
       </div>
       <div className="wrap footer-base">
