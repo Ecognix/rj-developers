@@ -250,3 +250,10 @@ h3{font-size:1.4rem}
 .stat{background:var(--river);padding:2rem clamp(1.2rem,3vw,2.4rem)}
 .stat strong{display:block;font-family:var(--display);font-weight:300;font-size:clamp(2.2rem,4vw,3.4rem);line-height:1.1;color:var(--gold)}
 .stat span{color:var(--stone);font-size:.98rem}
+
+/* logo lockup: mark on the left, wordmark to its right */
+.brand img{display:block;width:auto}
+.logo-mark{height:44px}
+.logo-word{height:19px}
+.footer-logo{margin-bottom:1.4rem}
+@media (max-width:560px){.logo-mark{height:38px}.logo-word{height:16px}}

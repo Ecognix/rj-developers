@@ -24,8 +24,8 @@ export default function Header() {
     <header className={`header ${solid || open ? "solid" : ""}`}>
       <div className="wrap header-row">
         <Link href="/" className="brand" aria-label="RJ Developers home">
-          {/* Replace this text mark with your logo: <img src="/logo.svg" alt="RJ Developers" /> */}
-          <span className="brand-mark">RJ</span><span className="brand-name">Developers</span>
+          <img className="logo-mark" src="/logo-mark.png" alt="" width="42" height="42" />
+          <img className="logo-word" src="/logo-wordmark.png" alt="RJ Developers" width="140" height="18" />
         </Link>
         <nav className={`nav ${open ? "open" : ""}`} aria-label="Main">
           {links.map((l) => (

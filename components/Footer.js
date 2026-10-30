@@ -6,6 +6,10 @@ export default function Footer() {
     <footer className="footer">
       <div className="wrap footer-grid">
         <div>
+          <div className="brand footer-logo">
+            <img className="logo-mark" src="/logo-mark.png" alt="" width="42" height="42" />
+            <img className="logo-word" src="/logo-wordmark.png" alt="RJ Developers" width="140" height="18" />
+          </div>
           <p className="footer-tag">{TAGLINE}</p>
           <p className="muted">RJ Developers builds residential, villa and commercial projects across Guwahati.</p>
         </div>
